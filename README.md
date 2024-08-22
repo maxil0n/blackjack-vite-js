@@ -7,5 +7,5 @@ Pasos para ejecutar el programa:
 3. Correr el devServer utilizando ```npm run dev```
 4. Abrir el proyecto en ```localhost```
 
-Proyecto basado casi enteramente en el curso "JavaScript Moderno: Guía para dominar el lenguaje" por el profesor Fernando Herrera en la plataforma Udemy. El código en su mayoría es similar, la variación está en parte de la sintaxis.
+Proyecto basado casi enteramente en el curso "JavaScript Moderno: Guía para dominar el lenguaje" por el profesor Fernando Herrera en la plataforma Udemy. El código en su mayoría es similar, la variación está en la sintaxis.
 
